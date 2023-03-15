@@ -14,6 +14,7 @@ Para iniciar el projecto ejecute los siguientes comandos:
 ```
 #Para inicar el servidor json
 json-server --watch db.json
+
 #Iniciar la aplicacion
 npm install
 
